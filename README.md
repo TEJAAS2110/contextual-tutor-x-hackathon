@@ -1,11 +1,11 @@
 # ⚡ Contextual Tutor X - AI Explain-by-Analogy Agent
 
-> **Peerlist AgenticWar-2 Hackathon Submission**  
+> **AgenticWar-2 Hackathon Submission**  
 > An intelligent AI agent that explains complex concepts through personalized analogies, web research, and multilingual support.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/TEJAAS2110/contextual-tutor-x-hackathon)
-[![Demo Video](https://img.shields.io/badge/Demo-Video-red)](YOUR_YOUTUBE_URL_HERE)
+[![Streamlit App](https://contextual-tutor-x-tejas-surve.streamlit.app/)
+[![GitHub](https://github.com/TEJAAS2110/contextual-tutor-x-hackathon)
+[![Demo Video](https://www.loom.com/share/2203d2eb74f24953a137e891206c79e9)
 
 ---
 
@@ -290,7 +290,7 @@ Status: ✅ PASS
 
 ## 🎥 **Demo Video**
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch Demo](https://www.loom.com/share/2203d2eb74f24953a137e891206c79e9)
 
 **Video Highlights:**
 - 0:00 - Introduction & Problem Statement
@@ -338,12 +338,12 @@ This project was inspired by the need to democratize education and make complex 
 
 ## 👨‍💻 **Developer**
 
-**Tejas Panu**
+**Tejas Surve**
 
 - 🐙 GitHub: [@TEJAAS2110](https://github.com/TEJAAS2110)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [Your Website](https://yourwebsite.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/tejas-surve-089365370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
+- 📧 Email: tejassurve601@gmail.com
+- 🌐 Portfolio: [https://tejaas2110.github.io/TEJAS-PORTFOLIO/]
 
 ---
 
@@ -355,7 +355,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 🙏 **Thank You**
 
-Thank you to **Peerlist** for organizing AgenticWar-2 and providing this opportunity to build innovative AI solutions that make a real difference in education!
+Thank you for organizing AgenticWar-2 and providing this opportunity to build innovative AI solutions that make a real difference in education!
 
 Special thanks to the open-source community for the amazing tools and libraries that made this project possible.
 
@@ -367,7 +367,6 @@ Having issues? Found a bug? Have suggestions?
 
 - 🐛 [Open an Issue](https://github.com/TEJAAS2110/contextual-tutor-x-hackathon/issues)
 - 💬 [Start a Discussion](https://github.com/TEJAAS2110/contextual-tutor-x-hackathon/discussions)
-- 📧 Email: your.email@example.com
 
 ---
 
@@ -379,6 +378,7 @@ If you find this project helpful, please consider giving it a star! It helps oth
 
 ---
 
-**Built with ❤️ for Peerlist AgenticWar-2 Hackathon 2024**
+**Built with ❤️ for AgenticWar-2 Hackathon 2024**
+
 
 *Challenge Accepted. Problem Solved. Innovation Delivered.* 🚀
