@@ -1,0 +1,395 @@
+[
+  {
+    "id": 1764440553037,
+    "timestamp": "2025-11-29T18:22:33.038838",
+    "concept": "Explain me the working of MOSFET",
+    "profile": {
+      "age": "16-22",
+      "role": "Student",
+      "interests": "games, music, tech"
+    },
+    "outputs": {
+      "summary": "Summary:\nTo explain the working of a MOSFET to a student aged 16-22, we need to break it down into simple terms and use analogies to help them understand the concept better.\n\nThree Atomic Ideas:\n1. MOSFET is a type of transistor used in electronic devices to control the flow of electrical current.\n2",
+      "raw": "Summary:\nTo explain the working of a MOSFET to a student aged 16-22, we need to break it down into simple terms and use analogies to help them understand the concept better.\n\nThree Atomic Ideas:\n1. MOSFET is a type of transistor used in electronic devices to control the flow of electrical current.\n2. It consists of a gate, source, and drain terminals that regulate the flow of electrons.\n3. By applying a voltage to the gate terminal, the MOSFET can either allow or block the current flow between the source and drain terminals.\n\nTwo Analogies:\n1. Think of the gate terminal as a gatekeeper controlling the flow of traffic (current) between two points (source and drain).\n2. Imagine the MOSFET as a faucet that can be turned on or off by adjusting the handle (gate voltage) to control the flow of water (current).\n\nFour-Step Plan:\n1. Introduce the concept of a transistor as a switch that can control the flow of electricity.\n2. Explain the structure of a MOSFET with its gate, source, and drain terminals.\n3. Demonstrate how applying a voltage to the gate terminal can control the current flow between the source and drain.\n4. Use analogies such as a gatekeeper and faucet to help visualize and understand the functioning of a MOSFET.",
+      "web_results": [
+        {
+          "title": "What Does 'Bokep Indo Terbaru' Mean and Why is It Viral in 2024?",
+          "snippet": "The Origins: What Does \u201cBokep Indo Terbaru\u201d Mean? Let me take you back in time a bit. The term \u201cBokep Indo Terbaru\u201d is a combination of the Indonesian word \u201cbokep,\u201d which basically means \u201cadult \u2026",
+          "url": "https://www.jordanthrilla.com/post/what-does-bokep-indo-terbaru-mean-and-why-is-it-viral-in-2024/"
+        },
+        {
+          "title": "EXPLAIN | English meaning - Cambridge Dictionary",
+          "snippet": "EXPLAIN definition: 1. to make something clear or easy to understand by describing or giving information about it: 2\u2026. Learn more.",
+          "url": "https://dictionary.cambridge.org/dictionary/english/explain"
+        },
+        {
+          "title": "EXPLAIN Definition & Meaning - Merriam-Webster",
+          "snippet": "explain, expound, explicate, elucidate, interpret mean to make something clear or understandable. explain implies a making plain or intelligible what is not immediately obvious or entirely known.",
+          "url": "https://www.merriam-webster.com/dictionary/explain"
+        }
+      ],
+      "confidence": 85,
+      "atomics": [
+        "Web-enhanced insight 1",
+        "Insight 2",
+        "Insight 3"
+      ],
+      "analogies": [
+        "Analogy from web context",
+        "Secondary analogy"
+      ],
+      "plan": [
+        "Research phase",
+        "Practice phase",
+        "Mastery phase",
+        "Review phase"
+      ],
+      "web_note": "DuckDuckGo"
+    }
+  },
+  {
+    "id": 1764440519130,
+    "timestamp": "2025-11-29T18:21:59.130921",
+    "concept": "Explain me the working of MOSFET",
+    "profile": {
+      "age": "16-22",
+      "role": "Student",
+      "interests": "games, music, tech"
+    },
+    "outputs": {
+      "summary": "Understanding Explain me the working of MOSFET through practical analogies",
+      "atomics": [
+        "Core: Explain me the working of MOSFET fundamentals",
+        "Mechanism: How Explain me the working of MOSFET works",
+        "Impact: Why Explain me the working of MOSFET matters"
+      ],
+      "analogies": [
+        "Story: Explain me the working of MOSFET is like a journey with phases",
+        "Each phase builds on previous understanding"
+      ],
+      "plan": [
+        "Step 1: Break down Explain me the working of MOSFET components",
+        "Step 2: Study real examples",
+        "Step 3: Practice application"
+      ],
+      "confidence": 80
+    }
+  },
+  {
+    "id": 1764435973958,
+    "timestamp": "2025-11-29T17:06:13.959131",
+    "concept": "explain me the construcion of MOSFET ",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construcion of MOSFET` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (story): Think of explain me the construcion of MOSFET like a main character in a story who makes decisions that guide the plot.",
+        "Mapping: character = core component, actions = system behavior, consequences = results."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construcion of MOSFET.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60,
+      "web_results": [
+        {
+          "title": "MOSFET types, construction, working and Characteristics",
+          "snippet": "The MOSFET consists of three terminals, they are source(S), Gate (G), Drain (D) and the body which is called as substrate.",
+          "url": "https://www.learnelectronicswithme.com/2020/07/mosfet-types-construction-working-and.html"
+        },
+        {
+          "title": "The MOSFET and Metal Oxide Semiconductor Tutorial",
+          "snippet": "MOSFETs are three terminal devices with a Gate, Drain and Source and both P-channel (PMOS) and N-channel (NMOS) MOSFETs are available.",
+          "url": "https://www.electronics-tutorials.ws/transistor/tran_6.html"
+        }
+      ],
+      "web_note": "OpenAI not available - local fallback."
+    }
+  },
+  {
+    "id": 1764435933790,
+    "timestamp": "2025-11-29T17:05:33.790540",
+    "concept": "explain me the construcion of MOSFET",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construcion of MOSFET` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (story): Think of explain me the construcion of MOSFET like a main character in a story who makes decisions that guide the plot.",
+        "Mapping: character = core component, actions = system behavior, consequences = results."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construcion of MOSFET.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60
+    }
+  },
+  {
+    "id": 1764435455149,
+    "timestamp": "2025-11-29T16:57:35.149397",
+    "concept": "explain me the construction of reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction of reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (story): Think of explain me the construction of reflex klystron like a main character in a story who makes decisions that guide the plot.",
+        "Mapping: character = core component, actions = system behavior, consequences = results."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction of reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60
+    }
+  },
+  {
+    "id": 1764435437762,
+    "timestamp": "2025-11-29T16:57:17.800310",
+    "concept": "explain me the construction of reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction of reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (story): Think of explain me the construction of reflex klystron like a main character in a story who makes decisions that guide the plot.",
+        "Mapping: character = core component, actions = system behavior, consequences = results."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction of reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60
+    }
+  },
+  {
+    "id": 1764435423468,
+    "timestamp": "2025-11-29T16:57:03.470550",
+    "concept": "explain me the construction of reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction of reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (story): Think of explain me the construction of reflex klystron like a main character in a story who makes decisions that guide the plot.",
+        "Mapping: character = core component, actions = system behavior, consequences = results."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction of reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60,
+      "web_results": [
+        {
+          "title": "Microwave Engineering - Reflex Klystron",
+          "snippet": "Reflex Klystron consists of an electron gun, a cathode filament, an anode cavity, and an electrode at the cathode potential. It provides low power and has low ...",
+          "url": "https://www.tutorialspoint.com/microwave_engineering/microwave_engineering_reflex_klystron.htm"
+        }
+      ],
+      "web_note": "OpenAI not available - local fallback."
+    }
+  },
+  {
+    "id": 1764434935187,
+    "timestamp": "2025-11-29T16:48:55.188052",
+    "concept": "explain me the construction and working of the  BLDC motor",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction and working of the  BLDC motor` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (visual): Visualize explain me the construction and working of the  BLDC motor as a set of colored blocks; each block influences the whole structure.",
+        "Mapping: blocks = components, stacking = composition, collapse = failure modes."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction and working of the  BLDC motor.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60
+    }
+  },
+  {
+    "id": 1764434868177,
+    "timestamp": "2025-11-29T16:47:48.178128",
+    "concept": "explain me the construction and working of the Reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction and working of the Reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (visual): Visualize explain me the construction and working of the Reflex klystron as a set of colored blocks; each block influences the whole structure.",
+        "Mapping: blocks = components, stacking = composition, collapse = failure modes."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction and working of the Reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60
+    }
+  },
+  {
+    "id": 1764434730883,
+    "timestamp": "2025-11-29T16:45:30.884043",
+    "concept": "explain me the construction and working of the Reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction and working of the Reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (visual): Visualize explain me the construction and working of the Reflex klystron as a set of colored blocks; each block influences the whole structure.",
+        "Mapping: blocks = components, stacking = composition, collapse = failure modes."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction and working of the Reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60
+    }
+  },
+  {
+    "id": 1764434718313,
+    "timestamp": "2025-11-29T16:45:18.314133",
+    "concept": "explain me the construction and working of the Reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction and working of the Reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (visual): Visualize explain me the construction and working of the Reflex klystron as a set of colored blocks; each block influences the whole structure.",
+        "Mapping: blocks = components, stacking = composition, collapse = failure modes."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction and working of the Reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60,
+      "web_results": [
+        {
+          "title": "Microwave Engineering - Reflex Klystron",
+          "snippet": "Reflex Klystron consists of an electron gun, a cathode filament, an anode cavity, and an electrode at the cathode potential. It provides low power and has low ...",
+          "url": "https://www.tutorialspoint.com/microwave_engineering/microwave_engineering_reflex_klystron.htm"
+        }
+      ],
+      "web_note": "LLM error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to "
+    }
+  },
+  {
+    "id": 1764434677773,
+    "timestamp": "2025-11-29T16:44:37.773758",
+    "concept": "explain me the construction and working of the Reflex klystron",
+    "profile": {
+      "age_group": "16-22",
+      "role": "Student",
+      "interests": "games, music"
+    },
+    "outputs": {
+      "summary": "TL;DR: Imagine `explain me the construction and working of the Reflex klystron` as if it were part of a simpler system.",
+      "atomics": [
+        "Core idea: explain",
+        "Key property: how it behaves or what it controls",
+        "Why it matters: practical outcome or effect"
+      ],
+      "analogies": [
+        "Analogy 1 (story): Think of explain me the construction and working of the Reflex klystron like a main character in a story who makes decisions that guide the plot.",
+        "Mapping: character = core component, actions = system behavior, consequences = results."
+      ],
+      "plan": [
+        "1. Identify the parts of explain me the construction and working of the Reflex klystron.",
+        "- Find one real-world example.",
+        "- Contrast with a simpler system to compare."
+      ],
+      "confidence": 60,
+      "web_results": [
+        {
+          "title": "Microwave Engineering - Reflex Klystron",
+          "snippet": "Reflex Klystron consists of an electron gun, a cathode filament, an anode cavity, and an electrode at the cathode potential. It provides low power and has low ...",
+          "url": "https://www.tutorialspoint.com/microwave_engineering/microwave_engineering_reflex_klystron.htm"
+        }
+      ],
+      "web_note": "LLM error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to "
+    }
+  }
+]

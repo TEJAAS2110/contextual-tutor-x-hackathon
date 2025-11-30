@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "name": "Asha (STEM)",
+    "age_group": "16-22",
+    "role": "Student",
+    "interests": ["coding","math"],
+    "short": "12th, 94%, low budget, choosing CS vs EC",
+    "profile": "STEM student with strong math and coding interest"
+  },
+  {
+    "id": "p2",
+    "name": "Rohit (Commerce)",
+    "age_group": "16-22",
+    "role": "Student",
+    "interests": ["business","economics"],
+    "short": "12th, 88%, BCom vs BBA",
+    "profile": "Commerce student exploring degree paths"
+  },
+  {
+    "id": "p3",
+    "name": "Neha (Gap Year)",
+    "age_group": "16-22",
+    "role": "Student",
+    "interests": ["startups","freelancing"],
+    "short": "12th, 76%, planning drop year",
+    "profile": "Considering alternative routes"
+  }
+]
